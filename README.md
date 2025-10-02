@@ -1,0 +1,2 @@
+# bootloaderNASM
+[bits 16]
